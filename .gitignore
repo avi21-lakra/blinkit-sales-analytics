@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI cache
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
